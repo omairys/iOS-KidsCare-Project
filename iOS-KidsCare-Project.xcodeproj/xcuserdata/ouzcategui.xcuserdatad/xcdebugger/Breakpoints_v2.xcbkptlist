@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "26995DF1-F32B-4C13-A121-79802EA34C2A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA903075-3954-4B9B-8C7A-B120E64C7F47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS-KidsCare-Project/Controllers/ToddlerTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ToddlerTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AA903075-3954-4B9B-8C7A-B120E64C7F47 - 52bf244ea79ab7fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_KidsCare_Project.ToddlerTableViewCell.nameToddler.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "iOS-KidsCare-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ouzcategui/GitHub/iOS-KidsCare-Project/iOS-KidsCare-Project/Controllers/ToddlerTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "AA903075-3954-4B9B-8C7A-B120E64C7F47 - 8069898bcff75308"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_KidsCare_Project.ToddlerTableViewCell.nameToddler.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "iOS-KidsCare-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ouzcategui/GitHub/iOS-KidsCare-Project/iOS-KidsCare-Project/Controllers/ToddlerTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "AA903075-3954-4B9B-8C7A-B120E64C7F47 - 3871cc98305b5f50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_KidsCare_Project.ToddlerTableViewCell.nameToddler.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "iOS-KidsCare-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ouzcategui/GitHub/iOS-KidsCare-Project/iOS-KidsCare-Project/Controllers/ToddlerTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "AA903075-3954-4B9B-8C7A-B120E64C7F47 - a6244c722630e39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_KidsCare_Project.ToddlerTableViewCell.nameToddler.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "iOS-KidsCare-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ouzcategui/GitHub/iOS-KidsCare-Project/iOS-KidsCare-Project/Controllers/ToddlerTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "AA903075-3954-4B9B-8C7A-B120E64C7F47 - f87347a2c0c62dbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_KidsCare_Project.ToddlerTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; iOS_KidsCare_Project.ToddlerTableViewCell"
+                  moduleName = "iOS-KidsCare-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ouzcategui/GitHub/iOS-KidsCare-Project/iOS-KidsCare-Project/Controllers/ToddlerTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "141">
+               </Location>
+               <Location
+                  uuid = "AA903075-3954-4B9B-8C7A-B120E64C7F47 - 9b2d46841daa53df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_KidsCare_Project.ToddlerTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;iOS_KidsCare_Project.ToddlerTableViewCell&gt;"
+                  moduleName = "iOS-KidsCare-Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ouzcategui/GitHub/iOS-KidsCare-Project/iOS-KidsCare-Project/Controllers/ToddlerTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "98">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C64ACA9B-B6C4-4231-A627-CE11A5790E8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS-KidsCare-Project/Controllers/AcceptKidTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "updateFeed()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
